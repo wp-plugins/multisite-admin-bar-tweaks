@@ -4,7 +4,7 @@ Plugin Name: Multisite Admin Bar Tweaks
 Plugin URI: 
 Author: dpe415
 Author URI: http://dpedesign.com
-Version: 1.0
+Version: 1.1
 Description: Adds several useful links to the multisite "Network Admin" admin bar.  Current links added are: "Plugins" and "Install Plugin".
 License: GPL2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html

@@ -2,16 +2,18 @@
 Contributors: dpe415
 Tags: multisite, admin bar, network admin, plugins
 Requires at least: 3.3
-Tested up to: 3.4.1
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.1
 License: GPL2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds several useful links to the Multisite "Network Admin" admin bar.
+*Depreciated* Adds several useful links to the Multisite "Network Admin" admin bar.
 
 == Description ==
 
-As a Multisite administrator & developer, what's the one task you most often need to accomplish from within the Network Admin section?...Manage plugins! Am I right?  This plugin adds the network 'Plugins' and 'Install Plugin' links to 'My Sites' > 'Network Admin' in the site admin bar.  Future releases will provide options to select which admin bar links to show or not show. 
+*This plugin is no longer under active development or support.* There are [several](http://wordpress.org/plugins/multisite-toolbar-additions/) [other](https://premium.wpmudev.org/project/custom-admin-bar/) admin bar plugins that provide this functionality and more.
+
+As a Multisite administrator & developer, what's the one task you most often need to accomplish from within the Network Admin section?...Manage plugins! Am I right?  This plugin adds the network 'Plugins' and 'Install Plugin' links to 'My Sites' > 'Network Admin' in the site admin bar. 
 
 
 == Installation ==
@@ -36,12 +38,12 @@ To get answers to your questions, request help or submit a bug report, please vi
 
 This plugin is only useful for [Multisite](http://codex.wordpress.org/Glossary#Multisite "Definition of Multisite in the WordPress glossary") installations.  Hence, it won't do anything if you're not running [Multisite](http://codex.wordpress.org/Create_A_Network "How to create a multisite network").
 
-= Future updates & wish list =
-
-* Allow users to show or hide different menu bar links via an option panel.
-
 
 == Changelog ==
+
+= 1.1 =
+* Final public release. Many Admin Bar plugins exist with more functionality than this.
+* Updated supported WP versions
 
 = 1.0 =
 * First public release
